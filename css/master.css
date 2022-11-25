@@ -145,7 +145,7 @@ body {
 .header {
     position: absolute;
     top: 40px;
-    left: 8%;
+    left: 10%;
     width: 304px;
     height: 42px;
 }
@@ -251,7 +251,7 @@ body {
     position: absolute;
     width: 447px;
     height: 78px;
-    left: 94px;
+    left: 111px;
     top: 144px;
     font-family: 'Manrope';
     font-style: normal;
@@ -265,7 +265,7 @@ body {
     position: absolute;
     width: 47px;
     height: 30px;
-    left: 156px;
+    left: 173px;
     top: 156px;
     font-family: 'Lavishly Yours';
     font-style: normal;
@@ -348,7 +348,7 @@ body {
     position: absolute;
     width: 247px;
     height: 271px;
-    left: 63px;
+    left: 73px;
     top: 330px;
     z-index: 1;
 }
