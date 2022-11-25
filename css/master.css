@@ -355,9 +355,13 @@ body {
 
 .shade {
     position: absolute;
-    width: 412px;
+    width: 450px;
     height: 138px;
     top: 407px;
+}
+
+.shade img {
+    width: 450px;
 }
 
 .g-17ggg {
