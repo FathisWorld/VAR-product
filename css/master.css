@@ -10,7 +10,7 @@ body {
 
 @media (min-width:768px) {
     .parent {
-        width: 30%;
+        width: 30% !important;
         margin: auto;
     }
 }
