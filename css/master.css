@@ -8,12 +8,7 @@ body {
     background-color: white;
 }
 
-@media (min-width:768px) {
-    .parent {
-        width: 30% !important;
-        margin: auto;
-    }
-}
+
 
 .kindactive,
 .xlactive,
@@ -147,6 +142,13 @@ body {
     height: 845px;
     background: #FFFFFF;
     overflow: hidden;
+}
+
+@media (min-width:768px) {
+    .parent {
+        width: 30% !important;
+        margin: auto;
+    }
 }
 
 .header {
